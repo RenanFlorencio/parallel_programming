@@ -1,0 +1,15 @@
+[submodule "cuda_ex_1"]
+	path = cuda_ex_1
+	url = https://github.com/mc970-25s1/cuda-exercises-01-RenanFlorencio
+[submodule "cuda_ex_2"]
+	path = cuda_ex_2
+	url = https://github.com/mc970-25s1/cuda-exercises-02-RenanFlorencio
+[submodule "openMP_tasks"]
+	path = openMP_tasks
+	url = https://github.com/mc970-25s1/openmp-tasks-RenanFlorencio
+[submodule "loops"]
+	path = loops
+	url = https://github.com/mc970-25s1/openmp-loops-RenanFlorencio
+[submodule "threads"]
+	path = threads
+	url = https://github.com/mc970-25s1/threads-exercises-RenanFlorencio
